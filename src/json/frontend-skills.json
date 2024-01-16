@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name":"HTML-5",
+        "skill":5
+    },
+    {
+        "id": 2,
+        "name":"CSS3",
+        "skill":5
+    },
+    {
+        "id": 3,
+        "name":"JavaScript",
+        "skill":5
+    },
+    {
+        "id": 4,
+        "name":"TypeScript",
+        "skill":4
+    },
+    {
+        "id": 5,
+        "name":"React.js",
+        "skill":5
+    },
+    {
+        "id": 6,
+        "name":"React Native",
+        "skill":3
+    }
+]

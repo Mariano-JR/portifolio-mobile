@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name":"Node.js",
+        "skill":4
+    },
+    {
+        "id": 2,
+        "name":"Express",
+        "skill":4
+    },
+    {
+        "id": 3,
+        "name":"Golang",
+        "skill":4
+    },
+    {
+        "id": 4,
+        "name":"GORM",
+        "skill":4
+    },
+    {
+        "id": 5,
+        "name":"GIN",
+        "skill":4
+    }
+]

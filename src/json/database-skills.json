@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name":"PostgreSQL",
+        "skill":5
+    },
+    {
+        "id": 2,
+        "name":"MySQL",
+        "skill":5
+    },
+    {
+        "id": 3,
+        "name":"MongoDB",
+        "skill":4
+    },
+    {
+        "id": 4,
+        "name":"Docker",
+        "skill":3
+    }
+]

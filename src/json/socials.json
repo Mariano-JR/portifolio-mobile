@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name":"LinkedIn",
+        "url":"https://www.linkedin.com/in/mariano-jr",
+        "icon":"linkedin-square"
+    },
+    {
+        "id": 2,
+        "name":"GitHub",
+        "url":"https://www.github.com/Mariano-JR",
+        "icon":"github"
+    },
+    {
+        "id": 3,
+        "name":"E-Mail",
+        "url":"mailto:marianojr.dev@gmail.com",
+        "icon":"mail"
+    }
+]
